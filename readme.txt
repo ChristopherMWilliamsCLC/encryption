@@ -1,0 +1,1 @@
+Code to encrypt/decrypt a message with a Caesar Cipher -> Bitstring -> Custom Bitshift.
